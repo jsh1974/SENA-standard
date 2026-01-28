@@ -1,8 +1,8 @@
 {
   "project": "SENA Standard",
-  "version": "1.0",
+  "version": "1.1",
   "author": "jsh1974",
-  "description": "Core dictionary for the SENA communication protocol",
+  "description": "Core dictionary for the SENA communication protocol (ES/EN)",
   "roots": [
     { "sena": "esi", "es": "ser/estar", "en": "to be", "cat": "verb" },
     { "sena": "avi", "es": "haber/tener", "en": "to have", "cat": "verb" },
@@ -103,13 +103,35 @@
     { "sena": "lume", "es": "luz", "en": "light", "cat": "concept" },
     { "sena": "omber", "es": "sombra", "en": "shadow", "cat": "concept" },
     { "sena": "arte", "es": "arte", "en": "art", "cat": "concept" },
-    { "sena": "skien", "es": "ciencia", "en": "science", "cat": "concept" }
+    { "sena": "skien", "es": "ciencia", "en": "science", "cat": "concept" },
+    { "sena": "den", "es": "diente", "en": "tooth", "cat": "body" },
+    { "sena": "oko", "es": "ojo", "en": "eye", "cat": "body" },
+    { "sena": "nas", "es": "nariz", "en": "nose", "cat": "body" },
+    { "sena": "orko", "es": "oreja", "en": "ear", "cat": "body" },
+    { "sena": "bra", "es": "brazo", "en": "arm", "cat": "body" },
+    { "sena": "leg", "es": "pierna", "en": "leg", "cat": "body" },
+    { "sena": "tablo", "es": "mesa", "en": "table", "cat": "object" },
+    { "sena": "sedia", "es": "silla", "en": "chair", "cat": "object" },
+    { "sena": "luma", "es": "lampara/luz", "en": "lamp/light", "cat": "object" },
+    { "sena": "porta", "es": "puerta", "en": "door", "cat": "object" },
+    { "sena": "fenes", "es": "ventana", "en": "window", "cat": "object" },
+    { "sena": "vesti", "es": "ropa", "en": "clothes", "cat": "object" },
+    { "sena": "tele", "es": "comunicacion/telefono", "en": "phone/comm", "cat": "object" },
+    { "sena": "kompu", "es": "computadora", "en": "computer", "cat": "object" },
+    { "sena": "basa", "es": "base/suelo", "en": "floor/base", "cat": "object" },
+    { "sena": "tekto", "es": "techo", "en": "roof/ceiling", "cat": "object" },
+    { "sena": "muro", "es": "pared", "en": "wall", "cat": "object" },
+    { "sena": "kam", "es": "cama", "en": "bed", "cat": "object" },
+    { "sena": "vasi", "es": "recipiente/vaso", "en": "glass/vessel", "cat": "object" },
+    { "sena": "kuti", "es": "cuchillo/corte", "en": "knife/cut", "cat": "object" }
   ],
   "grammar_particles": {
     "present": "nu",
     "past": "pa",
     "future": "fu",
     "completed": "ja",
-    "conditional": "si"
+    "conditional": "si",
+    "question": "ka",
+    "negation": "no"
   }
 }
