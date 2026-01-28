@@ -58,3 +58,14 @@
 **SENA:** mi pa faki un idea nova  
 **ES:** Yo hice una idea nueva.  
 **EN:** *I made a new idea.*
+
+---
+
+## 6. Compatibilidad Global / Global Compatibility
+**ES:** SENA está diseñado para ser accesible universalmente, con especial énfasis en la facilidad para hablantes de lenguas asiáticas.  
+**EN:** *SENA is designed to be universally accessible, with a special emphasis on ease for speakers of Asian languages.*
+
+* **Estructura Aislante / Isolating Structure:** Sin conjugaciones ni declinaciones, similar al Chino Mandarín. / *No conjugations or declensions, similar to Mandarin Chinese.*
+* **Orden Lógico / Logical Order:** SVO (Sujeto-Verbo-Objeto) consistente. / *Consistent SVO (Subject-Verb-Object).*
+* **Neutralidad / Neutrality:** Sin género gramatical, eliminando barreras de aprendizaje. / *No grammatical gender, removing learning barriers.*
+* **ASCII Puro / Pure ASCII:** Sin caracteres especiales ni tildes. / *No special characters or accents.*
