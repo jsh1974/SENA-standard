@@ -1,4 +1,4 @@
-# 🌐 SENA Language Specification (v1.0)
+# 🌐 SENA Language Specification (v1.1)
 **ES:** Sencillo · Eficiente · Neutro · ASCII  
 **EN:** *Simple · Efficient · Neutral · ASCII*
 
@@ -35,8 +35,9 @@
 
 ---
 
-## 4. Muestra del Diccionario / Dictionary Sample
-**ES:** Consultar `roots.json` para la base completa / **EN:** *Check `roots.json` for the full database*.
+## 4. Diccionario de Raíces / Roots Dictionary
+**ES:** El estándar cuenta actualmente con 120 raíces base. Consultar `roots.json` para la base completa.  
+**EN:** *The standard currently features 120 base roots. Check `roots.json` for the full database.*
 
 | SENA | ESPAÑOL | ENGLISH |
 | :--- | :--- | :--- |
